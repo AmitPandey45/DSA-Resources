@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{2FF0C413-4C3F-4069-B51B-C888AE7C659A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSA.LeetCode", "App\DSA.LeetCode\DSA.LeetCode.csproj", "{8AF3261B-CE9A-435A-9929-7B5311F9B7A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{22A05D56-0E8A-4626-8301-26C72465AAB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{AF735329-C9C5-44B0-B340-AE309FB015A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B80C8DE6-D842-4A08-B6CA-F22DD5CD0569}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{704A4AB1-9813-4F3F-BBC0-E24A0C22224C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA.Algorithms.LeetCode", "Algorithms\DSA.Algorithms.LeetCode\DSA.Algorithms.LeetCode.csproj", "{3246481F-E3F7-4D42-A312-247C2BF9B0C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF3261B-CE9A-435A-9929-7B5311F9B7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF3261B-CE9A-435A-9929-7B5311F9B7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF3261B-CE9A-435A-9929-7B5311F9B7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF3261B-CE9A-435A-9929-7B5311F9B7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3246481F-E3F7-4D42-A312-247C2BF9B0C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3246481F-E3F7-4D42-A312-247C2BF9B0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3246481F-E3F7-4D42-A312-247C2BF9B0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3246481F-E3F7-4D42-A312-247C2BF9B0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8AF3261B-CE9A-435A-9929-7B5311F9B7A2} = {2FF0C413-4C3F-4069-B51B-C888AE7C659A}
+		{3246481F-E3F7-4D42-A312-247C2BF9B0C8} = {22A05D56-0E8A-4626-8301-26C72465AAB9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F5B58D-7CCA-4B3B-810E-FA179343626A}
+	EndGlobalSection
+EndGlobal
